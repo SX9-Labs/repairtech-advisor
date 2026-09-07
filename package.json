@@ -1,0 +1,11 @@
+{
+  "name": "repairtech-advisor",
+  "version": "1.0.0",
+  "description": "Customer-side RepairTech Automotive advisor for Claude, Grok, and Pi.",
+  "license": "MIT",
+  "keywords": ["pi-package", "repairtech", "automotive", "advisor"],
+  "pi": {
+    "skills": ["./skills"],
+    "prompts": ["./prompts"]
+  }
+}

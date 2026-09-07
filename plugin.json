@@ -1,0 +1,5 @@
+{
+  "name": "repairtech-advisor",
+  "version": "1.0.0",
+  "description": "Customer-side RepairTech Automotive advisor. Understand a diagnosis or inspection in plain language on your Claude or Grok."
+}

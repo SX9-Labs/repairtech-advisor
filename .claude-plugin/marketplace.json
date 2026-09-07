@@ -1,0 +1,17 @@
+{
+  "name": "repairtech-advisor",
+  "owner": {
+    "name": "RepairTech Automotive",
+    "email": "owner@autorepair-tech.net"
+  },
+  "metadata": {
+    "description": "Customer-side shop advisor for RepairTech Automotive. Runs on your Claude or Grok."
+  },
+  "plugins": [
+    {
+      "name": "repairtech-advisor",
+      "source": "./",
+      "description": "Understand your RepairTech diagnosis or inspection in plain language."
+    }
+  ]
+}

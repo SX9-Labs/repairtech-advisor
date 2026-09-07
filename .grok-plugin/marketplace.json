@@ -1,0 +1,15 @@
+{
+  "name": "RepairTech Advisor",
+  "description": "Customer-side shop advisor for RepairTech Automotive (Kissimmee, FL). Runs on your Claude or Grok.",
+  "owner": {
+    "name": "RepairTech Automotive",
+    "email": "owner@autorepair-tech.net"
+  },
+  "plugins": [
+    {
+      "name": "repairtech-advisor",
+      "description": "Understand your RepairTech diagnosis or inspection in plain language.",
+      "source": { "type": "local", "path": "./" }
+    }
+  ]
+}
