@@ -8,6 +8,10 @@ RepairTech Automotive · Kissimmee, FL · [autorepair-tech.net](https://autorepa
 
 This is not the bay tech GPT. It does not talk to shop systems.
 
+**Visibility:** private until we flip it. The `.net` Git chip still points here so GTM
+can count clicks. Tech-to-tech / Mech Tech / UTI courseware is a later lane — not in
+this repo yet.
+
 ## Install
 
 ### Claude Code / Cowork
